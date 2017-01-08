@@ -1,0 +1,2 @@
+2017/01/09 I just made an android platform project on Unity, following a tutorial.
+Tutorial Link: https://unity3d.com/learn/tutorials/topics/mobile-touch/building-your-unity-game-android-device-testing?playlist=17138 
